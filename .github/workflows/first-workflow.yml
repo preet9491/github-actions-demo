@@ -1,4 +1,4 @@
-name: Checkout Demo
+name: Checkout Demo1
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  demo-job:
+  updated-job:
     runs-on: ubuntu-latest
 
     steps:
