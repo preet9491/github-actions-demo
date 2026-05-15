@@ -15,5 +15,4 @@ jobs:
 
       - name: List repository files
         run: |
-          ls -l
-
+          ls -
